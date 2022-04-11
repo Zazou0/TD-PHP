@@ -11,7 +11,13 @@
           // Ceci est un commentaire PHP sur une ligne
           /* Ceci est le 2ème type de commentaire PHP
           sur plusieurs lignes */
-           
+
+          $marque = "peugeot" ;
+          $couleur = "grise" ;
+          $immatriculation =" AA-2226-BB" ;
+          $mon_tableau = array();
+
+
           // On met la chaine de caractères "hello" dans la variable 'texte'
           // Les noms de variable commencent par $ en PHP
           $texte = "hello world !";
